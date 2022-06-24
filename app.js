@@ -36,7 +36,7 @@ const calculate = (first, second, func)=>{
 
 const getInput =() => {
 
-    let firstNumber = prompt('Welcome, please enter your first number : ');
+    let firstNumber = prompt('Welcome, this is Sahib Calculator. Please enter your first number : ');
 
     let secondNumber = prompt('Please enter your second number : ');
 
